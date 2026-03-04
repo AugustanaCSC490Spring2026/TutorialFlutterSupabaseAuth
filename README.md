@@ -4,7 +4,13 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application where users can sign up, log in, and log out using Supabase authentication.
+
+📺 Tutorial Video
+https://www.youtube.com/watch?v=g9sYnGdJtRg
+
+Credits
+Original tutorial by Mitch Koko.
 
 A few resources to get you started if this is your first Flutter project:
 
